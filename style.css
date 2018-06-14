@@ -1,0 +1,28 @@
+body{
+    background-color: #111111;
+    color: lightgray;
+    font-size: 28px;
+}
+
+#container{
+    width: 900px;
+    margin: 0 auto;
+}
+
+#board{
+    width: 900px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+    font-size: 48px;
+}
+
+#hangman{
+    float: left;
+    width: 450px;
+}
+
+#alphabet{
+    float: left;
+    width: 450px;
+}
